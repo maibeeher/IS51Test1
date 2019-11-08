@@ -10,7 +10,7 @@ export class AppComponent implements OnInit {
   title = 'final';
   aboutText: string;
   constructor(private flexModal: FlexModalService) {
-
+    
   }
 
   ngOnInit() {
